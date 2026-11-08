@@ -1,0 +1,11 @@
+contract,internet_service,payment_method,customers,churned,churn_rate_pct,churned_mrr
+Month-to-month,Fiber optic,Electronic check,1307,789.0,60.4,68282.0
+Month-to-month,Fiber optic,Mailed check,201,102.0,50.7,8407.0
+Month-to-month,Fiber optic,Bank transfer (automatic),327,149.0,45.6,13062.0
+Month-to-month,Fiber optic,Credit card (automatic),293,122.0,41.6,10731.0
+Month-to-month,DSL,Electronic check,474,192.0,40.5,8776.0
+Month-to-month,DSL,Mailed check,367,113.0,30.8,5292.0
+Month-to-month,DSL,Credit card (automatic),185,50.0,27.0,2475.0
+One year,Fiber optic,Electronic check,196,51.0,26.0,5150.0
+Month-to-month,No,Mailed check,325,67.0,20.6,1345.0
+Month-to-month,DSL,Bank transfer (automatic),197,39.0,19.8,1824.0

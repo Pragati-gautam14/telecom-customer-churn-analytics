@@ -1,0 +1,2 @@
+customers,churned_customers,churn_rate_pct,total_mrr,churned_mrr,mrr_churn_pct,annualised_revenue_lost,avg_bill_churners,avg_bill_retained,avg_tenure_churners,avg_tenure_retained
+7043,1869.0,26.5,456117.0,139131.0,30.5,1669570.0,74.44,61.27,18.0,37.6

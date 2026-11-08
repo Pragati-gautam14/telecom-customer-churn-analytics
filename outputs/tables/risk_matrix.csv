@@ -1,0 +1,16 @@
+contract,tenure_band,customers,churn_rate_pct
+Month-to-month,0-6 m,1413,55.2
+Month-to-month,13-24 m,737,37.7
+Month-to-month,25-48 m,802,32.9
+Month-to-month,49-72 m,342,26.0
+Month-to-month,7-12 m,581,42.0
+One year,0-6 m,39,10.3
+One year,13-24 m,197,8.1
+One year,25-48 m,518,10.6
+One year,49-72 m,634,12.9
+One year,7-12 m,85,10.6
+Two year,0-6 m,29,0.0
+Two year,13-24 m,90,0.0
+Two year,25-48 m,274,2.2
+Two year,49-72 m,1263,3.3
+Two year,7-12 m,39,0.0

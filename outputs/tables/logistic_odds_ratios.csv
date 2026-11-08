@@ -1,0 +1,42 @@
+feature,coefficient,odds_ratio
+contract_Month-to-month,0.627,1.87
+InternetService_Fiber optic,0.503,1.65
+total_charges,0.474,1.61
+OnlineSecurity_No,0.214,1.24
+payment_method_Electronic check,0.203,1.23
+TechSupport_No,0.183,1.2
+paperless_billing,0.183,1.2
+StreamingMovies_Yes,0.16,1.17
+StreamingTV_Yes,0.117,1.12
+addon_count,0.098,1.1
+OnlineBackup_No,0.087,1.09
+MultipleLines_Yes,0.084,1.09
+is_senior,0.073,1.08
+DeviceProtection_No,0.022,1.02
+gender_Male,0.016,1.02
+has_partner,-0.006,0.99
+DeviceProtection_Yes,-0.029,0.97
+OnlineBackup_Yes,-0.094,0.91
+payment_method_Mailed check,-0.097,0.91
+MultipleLines_No phone service,-0.099,0.91
+has_dependents,-0.105,0.9
+contract_One year,-0.107,0.9
+PhoneService_True,-0.115,0.89
+StreamingTV_No,-0.124,0.88
+payment_method_Credit card (automatic),-0.155,0.86
+payment_method_Bank transfer (automatic),-0.165,0.85
+StreamingMovies_No,-0.167,0.85
+TechSupport_Yes,-0.191,0.83
+MultipleLines_No,-0.198,0.82
+TechSupport_No internet service,-0.206,0.81
+StreamingTV_No internet service,-0.206,0.81
+InternetService_No,-0.206,0.81
+OnlineSecurity_No internet service,-0.206,0.81
+StreamingMovies_No internet service,-0.206,0.81
+DeviceProtection_No internet service,-0.206,0.81
+OnlineBackup_No internet service,-0.206,0.81
+OnlineSecurity_Yes,-0.221,0.8
+monthly_charges,-0.334,0.72
+InternetService_DSL,-0.51,0.6
+contract_Two year,-0.733,0.48
+tenure_months,-1.121,0.33

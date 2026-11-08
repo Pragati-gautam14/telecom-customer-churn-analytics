@@ -1,0 +1,19 @@
+feature,test,statistic,p_value,effect_size,significant_at_5pct
+tenure_months,Mann-Whitney U,2515538.0,2.42e-208,0.48,True
+contract,chi-square,1184.6,5.86e-258,0.41,True
+OnlineSecurity,chi-square,850.0,2.66e-185,0.347,True
+TechSupport,chi-square,828.2,1.44e-180,0.343,True
+InternetService,chi-square,732.3,9.57e-160,0.322,True
+payment_method,chi-square,648.1,3.68e-140,0.303,True
+OnlineBackup,chi-square,601.8,2.08e-131,0.292,True
+DeviceProtection,chi-square,558.4,5.51e-122,0.282,True
+monthly_charges,Mann-Whitney U,6003126.0,3.31e-54,-0.242,True
+StreamingTV,chi-square,374.2,5.53e-82,0.231,True
+StreamingMovies,chi-square,375.7,2.67e-82,0.231,True
+paperless_billing,chi-square,258.3,4.07e-58,0.191,True
+has_dependents,chi-square,189.1,4.92e-43,0.164,True
+is_senior,chi-square,159.4,1.51e-36,0.15,True
+has_partner,chi-square,158.7,2.14e-36,0.15,True
+MultipleLines,chi-square,11.3,3.46e-03,0.04,True
+PhoneService,chi-square,0.9,3.39e-01,0.011,False
+gender,chi-square,0.5,4.87e-01,0.008,False

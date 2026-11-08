@@ -1,0 +1,35 @@
+dimension,value,customers,churned,churn_rate_pct,churned_mrr,share_of_churners_pct
+Add-on services,1,966,442.0,45.8,30806.0,23.6
+Add-on services,2,1033,370.0,35.8,29476.0,19.8
+Add-on services,3,1118,306.0,27.4,27135.0,16.4
+Add-on services,4,852,190.0,22.3,18364.0,10.2
+Add-on services,0,2219,475.0,21.4,24517.0,25.4
+Add-on services,5,571,71.0,12.4,7170.0,3.8
+Add-on services,6,284,15.0,5.3,1664.0,0.8
+Contract,Month-to-month,3875,1655.0,42.7,120847.0,88.6
+Contract,One year,1473,166.0,11.3,14118.0,8.9
+Contract,Two year,1695,48.0,2.8,4165.0,2.6
+Has dependents,No,4933,1543.0,31.3,115377.0,82.6
+Has dependents,Yes,2110,326.0,15.5,23754.0,17.4
+Internet service,Fiber optic,3096,1297.0,41.9,114300.0,69.4
+Internet service,DSL,2421,459.0,19.0,22529.0,24.6
+Internet service,No,1526,113.0,7.4,2302.0,6.0
+Online security,No,3498,1461.0,41.8,112763.0,78.2
+Online security,Yes,2019,295.0,14.6,24067.0,15.8
+Online security,No internet service,1526,113.0,7.4,2302.0,6.0
+Paperless billing,Yes,4171,1400.0,33.6,109510.0,74.9
+Paperless billing,No,2872,469.0,16.3,29621.0,25.1
+Payment method,Electronic check,2365,1071.0,45.3,84289.0,57.3
+Payment method,Mailed check,1612,308.0,19.1,16804.0,16.5
+Payment method,Bank transfer (automatic),1544,258.0,16.7,20092.0,13.8
+Payment method,Credit card (automatic),1522,232.0,15.2,17947.0,12.4
+Senior citizen,Yes,1142,476.0,41.7,38420.0,25.5
+Senior citizen,No,5901,1393.0,23.6,100711.0,74.5
+Tech support,No,3473,1446.0,41.6,110710.0,77.4
+Tech support,Yes,2044,310.0,15.2,26119.0,16.6
+Tech support,No internet service,1526,113.0,7.4,2302.0,6.0
+Tenure band,0-6 m,1481,784.0,52.9,49896.0,41.9
+Tenure band,7-12 m,705,253.0,35.9,19058.0,13.5
+Tenure band,13-24 m,1024,294.0,28.7,23082.0,15.7
+Tenure band,25-48 m,1594,325.0,20.4,27463.0,17.4
+Tenure band,49-72 m,2239,213.0,9.5,19632.0,11.4

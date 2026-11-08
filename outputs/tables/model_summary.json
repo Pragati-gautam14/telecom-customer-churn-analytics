@@ -1,0 +1,12 @@
+{
+  "best_model": "Logistic Regression",
+  "test_auc": 0.846,
+  "top3_deciles_capture": 66.8,
+  "top_decile_lift": 2.83,
+  "confusion": {
+    "tn": 952,
+    "fp": 342,
+    "fn": 95,
+    "tp": 372
+  }
+}

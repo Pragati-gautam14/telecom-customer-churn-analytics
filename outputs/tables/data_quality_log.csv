@@ -1,0 +1,5 @@
+check_name,value
+Customers,7043
+Duplicate customer IDs,0
+Blank TotalCharges (tenure 0) → 0,11
+Negative charges,0

@@ -1,0 +1,3 @@
+model,cv_auc_mean,cv_auc_std,test_auc,precision,recall,f1
+Logistic Regression,0.844,0.015,0.846,0.521,0.797,0.63
+Gradient Boosting,0.845,0.013,0.846,0.665,0.501,0.571
